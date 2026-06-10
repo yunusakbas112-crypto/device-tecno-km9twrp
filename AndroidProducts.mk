@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_km9.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_km9.mk
