@@ -16,6 +16,7 @@ TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_BOARD_PLATFORM := mt6835
 BOARD_HAS_MTK_HARDWARE := true
 MTK_HARDWARE := true
+AB_OTA_UPDATER := true
 
 # Kernel ve Boot Parametreleri
 BOARD_KERNEL_CMDLINE := bootconfig
